@@ -1,0 +1,1183 @@
+Map Loaded with Cargo Weight: 4641.0 kg in Total
+
+！！！ Budget Not Enough,which is -1.0,Moving into Next Period ！！！
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐Now is Day 1,Period 1⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+-------------------Current Node:S ,Current Budget: 9000.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: H5 with weight:50.0
+Considering: H4 with weight:50.0
+Considering: H3 with weight:50.0
+Considering: H2 with weight:50.0
+Considering: H1 with weight:50.0
+Heading to H5,with weight:50.0,consumed Budget: 3640.0,left Budget: 5360.0,already Delivered: 50.0
+Able to deliver ahead of time,recovering Budget: 1820.0125,left Budget: 7305.0
+-------------------Current Node:H5 ,Current Budget: 7305.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 7305.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: H4 with weight:50.0
+Considering: H3 with weight:50.0
+Considering: H2 with weight:50.0
+Considering: H1 with weight:50.0
+Considering: X3 with weight:50.0
+Heading to H4,with weight:50.0,consumed Budget: 3540.0,left Budget: 3765.0,already Delivered: 100.0
+-------------------Current Node:H4 ,Current Budget: 3765.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 3765.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: H3 with weight:50.0
+Considering: H2 with weight:50.0
+Considering: H1 with weight:50.0
+Considering: X3 with weight:50.0
+Considering: X5 with weight:50.0
+Heading to H3,with weight:50.0,consumed Budget: 3440.0,left Budget: 325.0,already Delivered: 150.0
+-------------------Current Node:H3 ,Current Budget: 325.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 325.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+!!!!! Not Being Able to Head Toward any Nodes,Receiving Heavy Penalty to Force Moving into Next Period !!!!!!
+！！！ Budget Not Enough,which is -9675.0,Moving into Next Period ！！！
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐Now is Day 1,Period 2⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+-------------------Current Node:S ,Current Budget: 9000.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: H5 with weight:50.0
+Considering: H4 with weight:50.0
+Considering: H3 with weight:50.0
+Considering: H2 with weight:50.0
+Considering: H1 with weight:50.0
+Heading to H5,with weight:50.0,consumed Budget: 3640.0,left Budget: 5360.0,already Delivered: 200.0
+Able to deliver ahead of time,recovering Budget: 1820.0125,left Budget: 7305.0
+-------------------Current Node:H5 ,Current Budget: 7305.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 7305.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: H4 with weight:50.0
+Considering: H3 with weight:50.0
+Considering: H2 with weight:50.0
+Considering: H1 with weight:50.0
+Considering: X3 with weight:50.0
+Heading to H4,with weight:50.0,consumed Budget: 3540.0,left Budget: 3765.0,already Delivered: 250.0
+-------------------Current Node:H4 ,Current Budget: 3765.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 3765.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: H3 with weight:50.0
+Considering: H2 with weight:50.0
+Considering: H1 with weight:50.0
+Considering: X3 with weight:50.0
+Considering: X5 with weight:50.0
+Heading to H3,with weight:50.0,consumed Budget: 3440.0,left Budget: 325.0,already Delivered: 300.0
+-------------------Current Node:H3 ,Current Budget: 325.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 325.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+!!!!! Not Being Able to Head Toward any Nodes,Receiving Heavy Penalty to Force Moving into Next Period !!!!!!
+！！！ Budget Not Enough,which is -9675.0,Moving into Next Period ！！！
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐Now is Day 1,Period 3⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+-------------------Current Node:S ,Current Budget: 6000.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: H5 with weight:50.0
+Considering: H4 with weight:50.0
+Considering: H3 with weight:50.0
+Considering: H2 with weight:50.0
+Considering: H1 with weight:50.0
+Heading to H5,with weight:50.0,consumed Budget: 3640.0,left Budget: 2360.0,already Delivered: 350.0
+Able to deliver ahead of time,recovering Budget: 1820.0125,left Budget: 4305.0
+-------------------Current Node:H5 ,Current Budget: 4305.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 4305.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: H4 with weight:50.0
+Considering: H3 with weight:50.0
+Considering: H2 with weight:50.0
+Considering: H1 with weight:50.0
+Considering: X3 with weight:50.0
+Heading to H4,with weight:50.0,consumed Budget: 3540.0,left Budget: 765.0,already Delivered: 400.0
+-------------------Current Node:H4 ,Current Budget: 765.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 765.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: Y2 with weight:50.0
+Y2 Supports Delayed Return: ReturnBudget is 1040.0,But NonReturn Budget is 645.0
+Heading to Y2,with weight:50.0,consumed Budget: 1040.0,left Budget: -275.0,already Delivered: 450.0
+！！！ Budget Not Enough,which is -275.0,Moving into Next Period ！！！
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐Now is Day 2,Period 1⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+-------------------Current Node:Y2 ,Current Budget: 9000.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 9000.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: H2 with weight:50.0
+Considering: H1 with weight:50.0
+Considering: X3 with weight:50.0
+Considering: X5 with weight:50.0
+Considering: X7 with weight:50.0
+Heading to H2,with weight:50.0,consumed Budget: 3340.0,left Budget: 5660.0,already Delivered: 500.0
+Able to deliver ahead of time,recovering Budget: 1670.0125,left Budget: 7455.0
+-------------------Current Node:H2 ,Current Budget: 7455.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 7455.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: H1 with weight:50.0
+Considering: X3 with weight:50.0
+Considering: X5 with weight:50.0
+Considering: X7 with weight:50.0
+Considering: X1 with weight:50.0
+Heading to H1,with weight:50.0,consumed Budget: 2940.0,left Budget: 4515.0,already Delivered: 550.0
+-------------------Current Node:H1 ,Current Budget: 4515.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 4515.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: H1 with weight:50.0
+Considering: X3 with weight:50.0
+Considering: X5 with weight:50.0
+Considering: X7 with weight:50.0
+Considering: X1 with weight:50.0
+Heading to H1,with weight:50.0,consumed Budget: 2940.0,left Budget: 1575.0,already Delivered: 600.0
+-------------------Current Node:H1 ,Current Budget: 1575.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 1575.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: X3 with weight:50.0
+X3 Supports Delayed Return: ReturnBudget is 2240.0,But NonReturn Budget is 1245.0
+Heading to X3,with weight:50.0,consumed Budget: 2240.0,left Budget: -665.0,already Delivered: 650.0
+！！！ Budget Not Enough,which is -665.0,Moving into Next Period ！！！
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐Now is Day 2,Period 2⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+-------------------Current Node:X3 ,Current Budget: 9000.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 9000.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: H2 with weight:50.0
+Considering: H1 with weight:50.0
+Considering: X3 with weight:50.0
+Considering: X5 with weight:50.0
+Considering: X7 with weight:50.0
+Heading to H2,with weight:50.0,consumed Budget: 3340.0,left Budget: 5660.0,already Delivered: 700.0
+Able to deliver ahead of time,recovering Budget: 1670.0125,left Budget: 7455.0
+-------------------Current Node:H2 ,Current Budget: 7455.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 7455.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: H1 with weight:50.0
+Considering: X3 with weight:50.0
+Considering: X5 with weight:50.0
+Considering: X7 with weight:50.0
+Considering: X1 with weight:50.0
+Heading to H1,with weight:50.0,consumed Budget: 2940.0,left Budget: 4515.0,already Delivered: 750.0
+-------------------Current Node:H1 ,Current Budget: 4515.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 4515.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: X3 with weight:50.0
+Considering: X5 with weight:50.0
+Considering: X7 with weight:50.0
+Considering: X1 with weight:50.0
+Considering: X2 with weight:50.0
+Heading to X3,with weight:50.0,consumed Budget: 2240.0,left Budget: 2275.0,already Delivered: 800.0
+-------------------Current Node:X3 ,Current Budget: 2275.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 2275.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: X5 with weight:50.0
+Considering: X7 with weight:50.0
+Considering: X1 with weight:50.0
+Considering: X2 with weight:50.0
+Considering: X6 with weight:50.0
+Heading to X5,with weight:50.0,consumed Budget: 2140.0,left Budget: 135.0,already Delivered: 850.0
+-------------------Current Node:X5 ,Current Budget: 135.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 135.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+!!!!! Not Being Able to Head Toward any Nodes,Receiving Heavy Penalty to Force Moving into Next Period !!!!!!
+！！！ Budget Not Enough,which is -9865.0,Moving into Next Period ！！！
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐Now is Day 2,Period 3⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+-------------------Current Node:S ,Current Budget: 6000.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: H3 with weight:50.0
+Considering: H2 with weight:50.0
+Considering: H1 with weight:50.0
+Considering: X3 with weight:50.0
+Considering: X7 with weight:50.0
+Heading to H3,with weight:50.0,consumed Budget: 3440.0,left Budget: 2560.0,already Delivered: 900.0
+Able to deliver ahead of time,recovering Budget: 1720.0125,left Budget: 4405.0
+-------------------Current Node:H3 ,Current Budget: 4405.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 4405.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: H2 with weight:50.0
+Considering: H1 with weight:50.0
+Considering: X3 with weight:50.0
+Considering: X7 with weight:50.0
+Considering: X1 with weight:50.0
+Heading to H2,with weight:50.0,consumed Budget: 3340.0,left Budget: 1065.0,already Delivered: 950.0
+-------------------Current Node:H2 ,Current Budget: 1065.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 1065.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: X1 with weight:50.0
+X1 Supports Delayed Return: ReturnBudget is 1740.0,But NonReturn Budget is 995.0
+Heading to X1,with weight:50.0,consumed Budget: 1740.0,left Budget: -675.0,already Delivered: 1000.0
+！！！ Budget Not Enough,which is -675.0,Moving into Next Period ！！！
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐Now is Day 3,Period 1⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+-------------------Current Node:X1 ,Current Budget: 9000.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 9000.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: X3 with weight:50.0
+Considering: X5 with weight:50.0
+Considering: X7 with weight:50.0
+Considering: X1 with weight:50.0
+Considering: X2 with weight:50.0
+Heading to X3,with weight:50.0,consumed Budget: 2240.0,left Budget: 6760.0,already Delivered: 1050.0
+Able to deliver ahead of time,recovering Budget: 1120.0125,left Budget: 8005.0
+-------------------Current Node:X3 ,Current Budget: 8005.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 8005.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: X5 with weight:50.0
+Considering: X7 with weight:50.0
+Considering: X1 with weight:50.0
+Considering: X2 with weight:50.0
+Considering: X4 with weight:50.0
+Heading to X5,with weight:50.0,consumed Budget: 2140.0,left Budget: 5865.0,already Delivered: 1100.0
+-------------------Current Node:X5 ,Current Budget: 5865.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 5865.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: X5 with weight:50.0
+Considering: X7 with weight:50.0
+Considering: X1 with weight:50.0
+Considering: X2 with weight:50.0
+Considering: X4 with weight:50.0
+Heading to X5,with weight:50.0,consumed Budget: 2140.0,left Budget: 3725.0,already Delivered: 1150.0
+-------------------Current Node:X5 ,Current Budget: 3725.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 3725.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: X7 with weight:50.0
+Considering: X1 with weight:50.0
+Considering: X2 with weight:50.0
+Considering: X4 with weight:50.0
+Considering: X6 with weight:50.0
+Heading to X7,with weight:50.0,consumed Budget: 2040.0,left Budget: 1685.0,already Delivered: 1200.0
+-------------------Current Node:X7 ,Current Budget: 1685.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 1685.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: X7 with weight:50.0
+X7 Supports Delayed Return: ReturnBudget is 2040.0,But NonReturn Budget is 1145.0
+Heading to X7,with weight:50.0,consumed Budget: 2040.0,left Budget: -355.0,already Delivered: 1250.0
+！！！ Budget Not Enough,which is -355.0,Moving into Next Period ！！！
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐Now is Day 3,Period 2⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+-------------------Current Node:X7 ,Current Budget: 9000.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 9000.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: X7 with weight:50.0
+Considering: X1 with weight:50.0
+Considering: X2 with weight:50.0
+Considering: X6 with weight:50.0
+Considering: Y1 with weight:50.0
+Heading to X7,with weight:50.0,consumed Budget: 2040.0,left Budget: 6960.0,already Delivered: 1300.0
+Able to deliver ahead of time,recovering Budget: 1020.0125,left Budget: 8105.0
+-------------------Current Node:X7 ,Current Budget: 8105.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 8105.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: X1 with weight:50.0
+Considering: X2 with weight:50.0
+Considering: X6 with weight:50.0
+Considering: Y1 with weight:50.0
+Considering: Y2 with weight:50.0
+Heading to X1,with weight:50.0,consumed Budget: 1740.0,left Budget: 6365.0,already Delivered: 1350.0
+-------------------Current Node:X1 ,Current Budget: 6365.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 6365.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: X2 with weight:50.0
+Considering: X6 with weight:50.0
+Considering: Y1 with weight:50.0
+Considering: Y2 with weight:50.0
+Considering: Y3 with weight:50.0
+Heading to X2,with weight:50.0,consumed Budget: 1640.0,left Budget: 4725.0,already Delivered: 1400.0
+-------------------Current Node:X2 ,Current Budget: 4725.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 4725.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: X6 with weight:50.0
+Considering: Y1 with weight:50.0
+Considering: Y2 with weight:50.0
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Heading to X6,with weight:50.0,consumed Budget: 1440.0,left Budget: 3285.0,already Delivered: 1450.0
+-------------------Current Node:X6 ,Current Budget: 3285.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 3285.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: Y1 with weight:50.0
+Considering: Y2 with weight:50.0
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Heading to Y1,with weight:50.0,consumed Budget: 1040.0,left Budget: 2245.0,already Delivered: 1500.0
+-------------------Current Node:Y1 ,Current Budget: 2245.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 2245.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: Y2 with weight:50.0
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Heading to Y2,with weight:50.0,consumed Budget: 1040.0,left Budget: 1205.0,already Delivered: 1550.0
+-------------------Current Node:Y2 ,Current Budget: 1205.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 1205.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: X5 with weight:50.0
+X5 Supports Delayed Return: ReturnBudget is 2140.0,But NonReturn Budget is 1195.0
+Heading to X5,with weight:50.0,consumed Budget: 2140.0,left Budget: -935.0,already Delivered: 1600.0
+！！！ Budget Not Enough,which is -935.0,Moving into Next Period ！！！
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐Now is Day 3,Period 3⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+-------------------Current Node:X5 ,Current Budget: 6000.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 6000.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: H1 with weight:50.0
+Considering: X3 with weight:50.0
+Considering: X7 with weight:50.0
+Considering: X4 with weight:50.0
+Considering: Y3 with weight:50.0
+Heading to H1,with weight:50.0,consumed Budget: 2940.0,left Budget: 3060.0,already Delivered: 1650.0
+Able to deliver ahead of time,recovering Budget: 1470.0125,left Budget: 4655.0
+-------------------Current Node:H1 ,Current Budget: 4655.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 4655.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: X3 with weight:50.0
+Considering: X7 with weight:50.0
+Considering: X4 with weight:50.0
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Heading to X3,with weight:50.0,consumed Budget: 2240.0,left Budget: 2415.0,already Delivered: 1700.0
+-------------------Current Node:X3 ,Current Budget: 2415.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 2415.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: X3 with weight:50.0
+Considering: X7 with weight:50.0
+Considering: X4 with weight:50.0
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Heading to X3,with weight:50.0,consumed Budget: 2240.0,left Budget: 175.0,already Delivered: 1750.0
+-------------------Current Node:X3 ,Current Budget: 175.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 175.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+!!!!! Not Being Able to Head Toward any Nodes,Receiving Heavy Penalty to Force Moving into Next Period !!!!!!
+！！！ Budget Not Enough,which is -9825.0,Moving into Next Period ！！！
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐Now is Day 4,Period 1⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+-------------------Current Node:S ,Current Budget: 9000.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: X1 with weight:50.0
+Considering: X2 with weight:50.0
+Considering: X4 with weight:50.0
+Considering: X6 with weight:50.0
+Considering: Y1 with weight:50.0
+Heading to X1,with weight:50.0,consumed Budget: 1740.0,left Budget: 7260.0,already Delivered: 1800.0
+Able to deliver ahead of time,recovering Budget: 870.0125,left Budget: 8255.0
+-------------------Current Node:X1 ,Current Budget: 8255.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 8255.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: X2 with weight:50.0
+Considering: X4 with weight:50.0
+Considering: X6 with weight:50.0
+Considering: Y1 with weight:50.0
+Considering: Y2 with weight:50.0
+Heading to X2,with weight:50.0,consumed Budget: 1640.0,left Budget: 6615.0,already Delivered: 1850.0
+-------------------Current Node:X2 ,Current Budget: 6615.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 6615.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: X4 with weight:50.0
+Considering: X6 with weight:50.0
+Considering: Y1 with weight:50.0
+Considering: Y2 with weight:50.0
+Considering: Y3 with weight:50.0
+Heading to X4,with weight:50.0,consumed Budget: 1540.0,left Budget: 5075.0,already Delivered: 1900.0
+-------------------Current Node:X4 ,Current Budget: 5075.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 5075.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: X6 with weight:50.0
+Considering: Y1 with weight:50.0
+Considering: Y2 with weight:50.0
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Heading to X6,with weight:50.0,consumed Budget: 1440.0,left Budget: 3635.0,already Delivered: 1950.0
+-------------------Current Node:X6 ,Current Budget: 3635.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 3635.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: X6 with weight:50.0
+Considering: Y1 with weight:50.0
+Considering: Y2 with weight:50.0
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Heading to X6,with weight:50.0,consumed Budget: 1440.0,left Budget: 2195.0,already Delivered: 2000.0
+-------------------Current Node:X6 ,Current Budget: 2195.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 2195.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: Y1 with weight:50.0
+Considering: Y2 with weight:50.0
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Heading to Y1,with weight:50.0,consumed Budget: 1040.0,left Budget: 1155.0,already Delivered: 2050.0
+-------------------Current Node:Y1 ,Current Budget: 1155.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 1155.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: Y1 with weight:50.0
+Considering: Y2 with weight:50.0
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Heading to Y1,with weight:50.0,consumed Budget: 1040.0,left Budget: 115.0,already Delivered: 2100.0
+-------------------Current Node:Y1 ,Current Budget: 115.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 115.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+!!!!! Not Being Able to Head Toward any Nodes,Receiving Heavy Penalty to Force Moving into Next Period !!!!!!
+！！！ Budget Not Enough,which is -9885.0,Moving into Next Period ！！！
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐Now is Day 4,Period 2⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+-------------------Current Node:S ,Current Budget: 9000.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: X7 with weight:50.0
+Heading to X7,with weight:50.0,consumed Budget: 2040.0,left Budget: 6960.0,already Delivered: 2150.0
+Able to deliver ahead of time,recovering Budget: 1020.0125,left Budget: 8105.0
+-------------------Current Node:X7 ,Current Budget: 8105.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 8105.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: X1 with weight:50.0
+Heading to X1,with weight:50.0,consumed Budget: 1740.0,left Budget: 6365.0,already Delivered: 2200.0
+-------------------Current Node:X1 ,Current Budget: 6365.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 6365.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: X2 with weight:50.0
+Heading to X2,with weight:50.0,consumed Budget: 1640.0,left Budget: 4725.0,already Delivered: 2250.0
+-------------------Current Node:X2 ,Current Budget: 4725.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 4725.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: X4 with weight:50.0
+Heading to X4,with weight:50.0,consumed Budget: 1540.0,left Budget: 3185.0,already Delivered: 2300.0
+-------------------Current Node:X4 ,Current Budget: 3185.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 3185.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: X4 with weight:50.0
+Heading to X4,with weight:50.0,consumed Budget: 1540.0,left Budget: 1645.0,already Delivered: 2350.0
+-------------------Current Node:X4 ,Current Budget: 1645.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 1645.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: X4 with weight:50.0
+Heading to X4,with weight:50.0,consumed Budget: 1540.0,left Budget: 105.0,already Delivered: 2400.0
+-------------------Current Node:X4 ,Current Budget: 105.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 105.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+!!!!! Not Being Able to Head Toward any Nodes,Receiving Heavy Penalty to Force Moving into Next Period !!!!!!
+！！！ Budget Not Enough,which is -9895.0,Moving into Next Period ！！！
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐Now is Day 4,Period 3⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+-------------------Current Node:S ,Current Budget: 6000.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: X6 with weight:50.0
+Considering: Y1 with weight:50.0
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Heading to X6,with weight:50.0,consumed Budget: 1440.0,left Budget: 4560.0,already Delivered: 2450.0
+Able to deliver ahead of time,recovering Budget: 720.0125,left Budget: 5405.0
+-------------------Current Node:X6 ,Current Budget: 5405.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 5405.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: Y1 with weight:50.0
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Heading to Y1,with weight:50.0,consumed Budget: 1040.0,left Budget: 4365.0,already Delivered: 2500.0
+-------------------Current Node:Y1 ,Current Budget: 4365.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 4365.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: H5 with weight:50.0
+Heading to H5,with weight:50.0,consumed Budget: 3640.0,left Budget: 725.0,already Delivered: 2550.0
+-------------------Current Node:H5 ,Current Budget: 725.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 725.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: Y3 with weight:50.0
+Y3 Supports Delayed Return: ReturnBudget is 940.0,But NonReturn Budget is 595.0
+Heading to Y3,with weight:50.0,consumed Budget: 940.0,left Budget: -215.0,already Delivered: 2600.0
+！！！ Budget Not Enough,which is -215.0,Moving into Next Period ！！！
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐Now is Day 5,Period 1⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+-------------------Current Node:Y3 ,Current Budget: 9000.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 9000.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: Y2 with weight:50.0
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Heading to Y2,with weight:50.0,consumed Budget: 1040.0,left Budget: 7960.0,already Delivered: 2650.0
+Able to deliver ahead of time,recovering Budget: 520.0125,left Budget: 8605.0
+-------------------Current Node:Y2 ,Current Budget: 8605.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 8605.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: Y2 with weight:50.0
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Heading to Y2,with weight:50.0,consumed Budget: 1040.0,left Budget: 7565.0,already Delivered: 2700.0
+-------------------Current Node:Y2 ,Current Budget: 7565.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 7565.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: H5 with weight:50.0
+Heading to H5,with weight:50.0,consumed Budget: 3640.0,left Budget: 3925.0,already Delivered: 2750.0
+-------------------Current Node:H5 ,Current Budget: 3925.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 3925.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:18
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: H5 with weight:24.0
+Heading to H5,with weight:24.0,consumed Budget: 3640.0,left Budget: 285.0,already Delivered: 2774.0
+-------------------Current Node:H5 ,Current Budget: 285.0,Current Weight:24.0,Left Weight:26.0-------------------
+Candidate Nodes Num:17
+Considering: Y5 with weight:26.0
+Considering: Y6 with weight:26.0
+Considering: Y3 with weight:26.0
+Y3 Supports Delayed Return: ReturnBudget is 315.0,But NonReturn Budget is -30.0
+Heading to Y3,with weight:26.0,consumed Budget: 315.0,left Budget: -30.0,already Delivered: 2800.0
+！！！ Budget Not Enough,which is -30.0,Moving into Next Period ！！！
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐Now is Day 5,Period 2⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+-------------------Current Node:Y3 ,Current Budget: 9000.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 9000.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:17
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: H4 with weight:50.0
+Heading to H4,with weight:50.0,consumed Budget: 3540.0,left Budget: 5460.0,already Delivered: 2850.0
+Able to deliver ahead of time,recovering Budget: 1770.0125,left Budget: 7355.0
+-------------------Current Node:H4 ,Current Budget: 7355.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 7355.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:17
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: H4 with weight:19.0
+Heading to H4,with weight:19.0,consumed Budget: 3540.0,left Budget: 3815.0,already Delivered: 2869.0
+-------------------Current Node:H4 ,Current Budget: 3815.0,Current Weight:19.0,Left Weight:31.0-------------------
+Candidate Nodes Num:16
+Considering: Y5 with weight:31.0
+Considering: Y6 with weight:31.0
+Considering: Y3 with weight:31.0
+Considering: Y4 with weight:31.0
+Considering: H1 with weight:31.0
+Heading to H1,with weight:31.0,consumed Budget: 115.0,left Budget: 3700.0,already Delivered: 2900.0
+-------------------Current Node:H1 ,Current Budget: 3700.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 3700.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:16
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: H3 with weight:50.0
+Heading to H3,with weight:50.0,consumed Budget: 3440.0,left Budget: 260.0,already Delivered: 2950.0
+-------------------Current Node:H3 ,Current Budget: 260.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 260.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:16
+!!!!! Not Being Able to Head Toward any Nodes,Receiving Heavy Penalty to Force Moving into Next Period !!!!!!
+！！！ Budget Not Enough,which is -9740.0,Moving into Next Period ！！！
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐Now is Day 5,Period 3⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+-------------------Current Node:S ,Current Budget: 6000.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:16
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: H3 with weight:44.0
+Heading to H3,with weight:44.0,consumed Budget: 3440.0,left Budget: 2560.0,already Delivered: 2994.0
+Able to deliver ahead of time,recovering Budget: 1720.0125,left Budget: 4405.0
+-------------------Current Node:H3 ,Current Budget: 4405.0,Current Weight:44.0,Left Weight:6.0-------------------
+Candidate Nodes Num:11
+Considering: Y5 with weight:6.0
+Considering: Y3 with weight:6.0
+Considering: Y4 with weight:6.0
+Considering: Y6 with weight:6.0
+Considering: H1 with weight:6.0
+Heading to H1,with weight:6.0,consumed Budget: 115.0,left Budget: 4290.0,already Delivered: 3000.0
+-------------------Current Node:H1 ,Current Budget: 4290.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 4290.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:15
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: H2 with weight:50.0
+Heading to H2,with weight:50.0,consumed Budget: 3340.0,left Budget: 950.0,already Delivered: 3050.0
+-------------------Current Node:H2 ,Current Budget: 950.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 950.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:15
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: X2 with weight:33.0
+X2 Supports Delayed Return: ReturnBudget is 1640.0,But NonReturn Budget is 945.0
+Heading to X2,with weight:33.0,consumed Budget: 1640.0,left Budget: -690.0,already Delivered: 3083.0
+！！！ Budget Not Enough,which is -690.0,Moving into Next Period ！！！
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐Now is Day 6,Period 1⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+-------------------Current Node:X2 ,Current Budget: 9000.0,Current Weight:33.0,Left Weight:17.0-------------------
+Candidate Nodes Num:10
+Considering: Y5 with weight:17.0
+Considering: Y6 with weight:17.0
+Considering: Y3 with weight:17.0
+Considering: Y4 with weight:17.0
+Considering: X4 with weight:17.0
+Heading to X4,with weight:17.0,consumed Budget: 115.0,left Budget: 8885.0,already Delivered: 3100.0
+-------------------Current Node:X4 ,Current Budget: 8885.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 8885.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:14
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: H2 with weight:50.0
+Heading to H2,with weight:50.0,consumed Budget: 3340.0,left Budget: 5545.0,already Delivered: 3150.0
+Able to deliver ahead of time,recovering Budget: 1670.0125,left Budget: 7340.0
+-------------------Current Node:H2 ,Current Budget: 7340.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 7340.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:14
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: H2 with weight:21.0
+Heading to H2,with weight:21.0,consumed Budget: 3340.0,left Budget: 4000.0,already Delivered: 3171.0
+-------------------Current Node:H2 ,Current Budget: 4000.0,Current Weight:21.0,Left Weight:29.0-------------------
+Candidate Nodes Num:13
+Considering: Y5 with weight:29.0
+Considering: Y6 with weight:29.0
+Considering: Y3 with weight:29.0
+Considering: Y4 with weight:29.0
+Considering: H1 with weight:29.0
+Heading to H1,with weight:29.0,consumed Budget: 115.0,left Budget: 3885.0,already Delivered: 3200.0
+-------------------Current Node:H1 ,Current Budget: 3885.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 3885.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:13
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: H1 with weight:17.0
+Heading to H1,with weight:17.0,consumed Budget: 2940.0,left Budget: 945.0,already Delivered: 3217.0
+-------------------Current Node:H1 ,Current Budget: 945.0,Current Weight:17.0,Left Weight:33.0-------------------
+Candidate Nodes Num:12
+Considering: Y5 with weight:33.0
+Considering: Y6 with weight:33.0
+Considering: Y3 with weight:33.0
+Considering: Y4 with weight:33.0
+Considering: X6 with weight:33.0
+Heading to Y5,with weight:33.0,consumed Budget: 215.0,left Budget: 730.0,already Delivered: 3250.0
+-------------------Current Node:Y5 ,Current Budget: 730.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 730.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:12
+Considering: Y3 with weight:50.0
+Y3 Supports Delayed Return: ReturnBudget is 940.0,But NonReturn Budget is 595.0
+Heading to Y3,with weight:50.0,consumed Budget: 940.0,left Budget: -210.0,already Delivered: 3300.0
+！！！ Budget Not Enough,which is -210.0,Moving into Next Period ！！！
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐Now is Day 6,Period 2⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+-------------------Current Node:Y3 ,Current Budget: 9000.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 9000.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:12
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: X3 with weight:50.0
+Heading to X3,with weight:50.0,consumed Budget: 2240.0,left Budget: 6760.0,already Delivered: 3350.0
+Able to deliver ahead of time,recovering Budget: 1120.0125,left Budget: 8005.0
+-------------------Current Node:X3 ,Current Budget: 8005.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 8005.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:12
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: X3 with weight:41.0
+Heading to X3,with weight:41.0,consumed Budget: 2240.0,left Budget: 5765.0,already Delivered: 3391.0
+-------------------Current Node:X3 ,Current Budget: 5765.0,Current Weight:41.0,Left Weight:9.0-------------------
+Candidate Nodes Num:10
+Considering: Y5 with weight:9.0
+Considering: Y6 with weight:9.0
+Considering: Y3 with weight:9.0
+Considering: Y4 with weight:9.0
+Considering: X5 with weight:9.0
+Heading to X5,with weight:9.0,consumed Budget: 115.0,left Budget: 5650.0,already Delivered: 3400.0
+-------------------Current Node:X5 ,Current Budget: 5650.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 5650.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:11
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: X5 with weight:50.0
+Heading to X5,with weight:50.0,consumed Budget: 2140.0,left Budget: 3510.0,already Delivered: 3450.0
+-------------------Current Node:X5 ,Current Budget: 3510.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 3510.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:11
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: X5 with weight:20.0
+Heading to X5,with weight:20.0,consumed Budget: 2140.0,left Budget: 1370.0,already Delivered: 3470.0
+-------------------Current Node:X5 ,Current Budget: 1370.0,Current Weight:20.0,Left Weight:30.0-------------------
+Candidate Nodes Num:10
+Considering: Y5 with weight:30.0
+Considering: Y6 with weight:30.0
+Considering: Y3 with weight:30.0
+Considering: Y4 with weight:30.0
+Considering: X7 with weight:30.0
+Heading to X7,with weight:30.0,consumed Budget: 115.0,left Budget: 1255.0,already Delivered: 3500.0
+-------------------Current Node:X7 ,Current Budget: 1255.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 1255.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:10
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: X7 with weight:50.0
+X7 Supports Delayed Return: ReturnBudget is 2040.0,But NonReturn Budget is 1145.0
+Heading to X7,with weight:50.0,consumed Budget: 2040.0,left Budget: -785.0,already Delivered: 3550.0
+！！！ Budget Not Enough,which is -785.0,Moving into Next Period ！！！
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐Now is Day 6,Period 3⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+-------------------Current Node:X7 ,Current Budget: 6000.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 6000.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:10
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: X7 with weight:9.0
+Heading to X7,with weight:9.0,consumed Budget: 2040.0,left Budget: 3960.0,already Delivered: 3559.0
+Able to deliver ahead of time,recovering Budget: 1020.0125,left Budget: 5105.0
+-------------------Current Node:X7 ,Current Budget: 5105.0,Current Weight:9.0,Left Weight:41.0-------------------
+Candidate Nodes Num:9
+Considering: Y5 with weight:41.0
+Considering: Y3 with weight:41.0
+Considering: Y4 with weight:41.0
+Considering: Y6 with weight:41.0
+Considering: X6 with weight:41.0
+Heading to Y5,with weight:41.0,consumed Budget: 215.0,left Budget: 4890.0,already Delivered: 3600.0
+-------------------Current Node:Y5 ,Current Budget: 4890.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 4890.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:9
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: X1 with weight:46.0
+Heading to X1,with weight:46.0,consumed Budget: 1740.0,left Budget: 3150.0,already Delivered: 3646.0
+-------------------Current Node:X1 ,Current Budget: 3150.0,Current Weight:46.0,Left Weight:4.0-------------------
+Candidate Nodes Num:2
+Considering: X4 with weight:4.0
+Considering: X6 with weight:4.0
+Heading to X4,with weight:4.0,consumed Budget: 115.0,left Budget: 3035.0,already Delivered: 3650.0
+-------------------Current Node:X4 ,Current Budget: 3035.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 3035.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:8
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: X6 with weight:43.0
+Heading to X6,with weight:43.0,consumed Budget: 1440.0,left Budget: 1595.0,already Delivered: 3693.0
+-------------------Current Node:X6 ,Current Budget: 1595.0,Current Weight:43.0,Left Weight:7.0-------------------
+Candidate Nodes Num:3
+Considering: Y5 with weight:7.0
+Considering: Y6 with weight:7.0
+Considering: X4 with weight:7.0
+Heading to Y5,with weight:7.0,consumed Budget: 215.0,left Budget: 1380.0,already Delivered: 3700.0
+-------------------Current Node:Y5 ,Current Budget: 1380.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 1380.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:7
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: X4 with weight:50.0
+X4 Supports Delayed Return: ReturnBudget is 1540.0,But NonReturn Budget is 895.0
+Heading to X4,with weight:50.0,consumed Budget: 1540.0,left Budget: -160.0,already Delivered: 3750.0
+！！！ Budget Not Enough,which is -160.0,Moving into Next Period ！！！
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐Now is Day 7,Period 1⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+-------------------Current Node:X4 ,Current Budget: 9000.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 9000.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:7
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: X4 with weight:27.0
+Considering: Y1 with weight:50.0
+Heading to X4,with weight:27.0,consumed Budget: 1540.0,left Budget: 7460.0,already Delivered: 3777.0
+Able to deliver ahead of time,recovering Budget: 770.0125,left Budget: 8355.0
+-------------------Current Node:X4 ,Current Budget: 8355.0,Current Weight:27.0,Left Weight:23.0-------------------
+Candidate Nodes Num:6
+Considering: Y5 with weight:23.0
+Considering: Y6 with weight:23.0
+Considering: Y4 with weight:23.0
+Considering: Y3 with weight:23.0
+Considering: Y1 with weight:23.0
+Heading to Y5,with weight:23.0,consumed Budget: 215.0,left Budget: 8140.0,already Delivered: 3800.0
+-------------------Current Node:Y5 ,Current Budget: 8140.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 8140.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:6
+Considering: Y4 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: Y1 with weight:50.0
+Considering: Y2 with weight:50.0
+Considering: Y3 with weight:50.0
+Heading to Y1,with weight:50.0,consumed Budget: 1040.0,left Budget: 7100.0,already Delivered: 3850.0
+-------------------Current Node:Y1 ,Current Budget: 7100.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 7100.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:6
+Considering: Y4 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: Y1 with weight:33.0
+Considering: Y2 with weight:50.0
+Considering: Y3 with weight:50.0
+Heading to Y1,with weight:33.0,consumed Budget: 1040.0,left Budget: 6060.0,already Delivered: 3883.0
+-------------------Current Node:Y1 ,Current Budget: 6060.0,Current Weight:33.0,Left Weight:17.0-------------------
+Candidate Nodes Num:5
+Considering: Y4 with weight:17.0
+Considering: Y6 with weight:17.0
+Considering: Y2 with weight:17.0
+Considering: Y3 with weight:17.0
+Considering: Y5 with weight:17.0
+Heading to Y4,with weight:17.0,consumed Budget: 115.0,left Budget: 5945.0,already Delivered: 3900.0
+-------------------Current Node:Y4 ,Current Budget: 5945.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 5945.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:5
+Considering: Y4 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: Y2 with weight:50.0
+Considering: Y3 with weight:50.0
+Considering: Y5 with weight:50.0
+Heading to Y2,with weight:50.0,consumed Budget: 1040.0,left Budget: 4905.0,already Delivered: 3950.0
+-------------------Current Node:Y2 ,Current Budget: 4905.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 4905.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:5
+Considering: Y4 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: Y2 with weight:50.0
+Considering: Y3 with weight:50.0
+Considering: Y5 with weight:50.0
+Heading to Y2,with weight:50.0,consumed Budget: 1040.0,left Budget: 3865.0,already Delivered: 4000.0
+-------------------Current Node:Y2 ,Current Budget: 3865.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 3865.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:5
+Considering: Y4 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: Y2 with weight:29.0
+Considering: Y3 with weight:50.0
+Considering: Y5 with weight:50.0
+Heading to Y2,with weight:29.0,consumed Budget: 1040.0,left Budget: 2825.0,already Delivered: 4029.0
+-------------------Current Node:Y2 ,Current Budget: 2825.0,Current Weight:29.0,Left Weight:21.0-------------------
+Candidate Nodes Num:4
+Considering: Y4 with weight:21.0
+Considering: Y6 with weight:21.0
+Considering: Y3 with weight:21.0
+Considering: Y5 with weight:21.0
+Heading to Y4,with weight:21.0,consumed Budget: 115.0,left Budget: 2710.0,already Delivered: 4050.0
+-------------------Current Node:Y4 ,Current Budget: 2710.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 2710.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:4
+Considering: Y6 with weight:50.0
+Considering: Y3 with weight:50.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Heading to Y3,with weight:50.0,consumed Budget: 940.0,left Budget: 1770.0,already Delivered: 4100.0
+-------------------Current Node:Y3 ,Current Budget: 1770.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 1770.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:4
+Considering: Y6 with weight:50.0
+Considering: Y3 with weight:31.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Heading to Y3,with weight:31.0,consumed Budget: 940.0,left Budget: 830.0,already Delivered: 4131.0
+-------------------Current Node:Y3 ,Current Budget: 830.0,Current Weight:31.0,Left Weight:19.0-------------------
+Candidate Nodes Num:3
+Considering: Y6 with weight:19.0
+Considering: Y4 with weight:19.0
+Considering: Y5 with weight:19.0
+Heading to Y6,with weight:19.0,consumed Budget: 115.0,left Budget: 715.0,already Delivered: 4150.0
+-------------------Current Node:Y6 ,Current Budget: 715.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 715.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:3
+Considering: Y6 with weight:50.0
+Y6 Supports Delayed Return: ReturnBudget is 840.0,But NonReturn Budget is 545.0
+Heading to Y6,with weight:50.0,consumed Budget: 840.0,left Budget: -125.0,already Delivered: 4200.0
+！！！ Budget Not Enough,which is -125.0,Moving into Next Period ！！！
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐Now is Day 7,Period 2⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+-------------------Current Node:Y6 ,Current Budget: 9000.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 9000.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:4
+Considering: Y3 with weight:21.0
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Heading to Y3,with weight:21.0,consumed Budget: 940.0,left Budget: 8060.0,already Delivered: 4221.0
+Able to deliver ahead of time,recovering Budget: 470.0125,left Budget: 8655.0
+-------------------Current Node:Y3 ,Current Budget: 8655.0,Current Weight:21.0,Left Weight:29.0-------------------
+Candidate Nodes Num:3
+Considering: Y4 with weight:29.0
+Considering: Y5 with weight:29.0
+Considering: Y6 with weight:29.0
+Heading to Y4,with weight:29.0,consumed Budget: 115.0,left Budget: 8540.0,already Delivered: 4250.0
+-------------------Current Node:Y4 ,Current Budget: 8540.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 8540.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:3
+Considering: Y4 with weight:50.0
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Heading to Y4,with weight:50.0,consumed Budget: 940.0,left Budget: 7600.0,already Delivered: 4300.0
+-------------------Current Node:Y4 ,Current Budget: 7600.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 7600.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:3
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Considering: Y4 with weight:36.0
+Heading to Y4,with weight:36.0,consumed Budget: 940.0,left Budget: 6660.0,already Delivered: 4336.0
+-------------------Current Node:Y4 ,Current Budget: 6660.0,Current Weight:36.0,Left Weight:14.0-------------------
+Candidate Nodes Num:2
+Considering: Y5 with weight:14.0
+Considering: Y6 with weight:14.0
+Heading to Y5,with weight:14.0,consumed Budget: 115.0,left Budget: 6545.0,already Delivered: 4350.0
+-------------------Current Node:Y5 ,Current Budget: 6545.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 6545.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:2
+Considering: Y6 with weight:50.0
+Considering: Y5 with weight:50.0
+Heading to Y6,with weight:50.0,consumed Budget: 840.0,left Budget: 5705.0,already Delivered: 4400.0
+-------------------Current Node:Y6 ,Current Budget: 5705.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 5705.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:2
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Heading to Y5,with weight:50.0,consumed Budget: 840.0,left Budget: 4865.0,already Delivered: 4450.0
+-------------------Current Node:Y5 ,Current Budget: 4865.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 4865.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:2
+Considering: Y5 with weight:50.0
+Considering: Y6 with weight:50.0
+Heading to Y5,with weight:50.0,consumed Budget: 840.0,left Budget: 4025.0,already Delivered: 4500.0
+-------------------Current Node:Y5 ,Current Budget: 4025.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 4025.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:2
+Considering: Y5 with weight:46.0
+Considering: Y6 with weight:50.0
+Heading to Y5,with weight:46.0,consumed Budget: 840.0,left Budget: 3185.0,already Delivered: 4546.0
+-------------------Current Node:Y5 ,Current Budget: 3185.0,Current Weight:46.0,Left Weight:4.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 3185.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:1
+Considering: Y6 with weight:50.0
+Heading to Y6,with weight:50.0,consumed Budget: 840.0,left Budget: 2345.0,already Delivered: 4596.0
+-------------------Current Node:Y6 ,Current Budget: 2345.0,Current Weight:50.0,Left Weight:0.0-------------------
+Candidate Nodes Num:0
+No Available Nodes ,Heading Back
+-------------------Current Node:S ,Current Budget: 2345.0,Current Weight:0.0,Left Weight:50.0-------------------
+Candidate Nodes Num:1
+Considering: Y6 with weight:45.0
+Heading to Y6,with weight:45.0,consumed Budget: 840.0,left Budget: 1505.0,already Delivered: 4641.0
+
+All Finished! Days Spent: 7
